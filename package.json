@@ -1,0 +1,20 @@
+{
+  "name": "blur-js",
+  "version": "0.0.0",
+  "description": "StackBlur Refactored",
+  "main": "StackBlur.html",
+  "dependencies": {
+    "webserver": "~1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matthewsimo/blur-js.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "readme.md"
+}
