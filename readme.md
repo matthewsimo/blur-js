@@ -15,5 +15,5 @@ Master branch will be dedicated to my implementation which will focus on flexabi
 
 To run the demo, after cloning, run `npm install` to get the webserver in place, then run `node node_modules/webserver/webserver.js` from your command line.
 
-After that, visit http://localhost:8003/demo.html  - (chrome doesn't like running it directly from the file - hence the webserver.)
+After that, visit [http://localhost:8003/demo.html](http://localhost:8003/demo.html) - (chrome doesn't like running it directly from the file - hence the webserver.)
 
